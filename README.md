@@ -54,7 +54,7 @@ I’m a passionate full stack developer who enjoys building modern, scalable, an
 ---
 
 ## 📫 Connect With Me
-- 💼 GitHub: **[github.com/Mohammed-Afnaan](https://github.com/Mohammed-Afnaan)**  
+- 💼 GitHub: **[github.com/Mohammed-Afnaan](https://github.com/mohdafnaan)**  
 
 ---
 
